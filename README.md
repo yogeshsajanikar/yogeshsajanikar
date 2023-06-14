@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there
+
+I am [Yogesh Sajanikar](https://www.linkedin.com/in/yogeshsajanikar/). I am a passionate functional programmer interested in formal methods such as TLA+, Coq. As a programmer I am biased towards Haskell, which is my favorite language, in the same way I am biased towards Emacs as my lifelong editor. I like to solve interesting problems especially related to geometry, data science, AI and distributed systems. I take pride in the code that I write. Now a days, I am striving to bring a formalism into the way I code.
+
+I am indebted to open source and community as I use it daily, and learnt a lot using it. Though I live and work in the corporate world, I feel that the corporate world consumes open source but do not contribute to it officially. As an exception, few of my earlier employers did have an open attitude towards it. At a personal level I feel that I should have started the contribution much earlier. 
+
+Feel free to contact me at yogesh.underscore.sajanikar.at.yahoo.com, I will be happy to help.
 
 <!--
 **yogeshsajanikar/yogeshsajanikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Github Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yogeshsajanikar&show_icons=true&theme=default" alt="yogeshsajanikar" />
